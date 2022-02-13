@@ -27,7 +27,7 @@ PM> Install-Package CardGamesLib_Owen_Boreham
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bobrossrtx/CardGameLib/issues). You can also take a look at the [contributing guide](https://github.com/bobrossrtx/CardGameLib/blob/master/CONTRIBUTE).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/bobrossrtx/CardGameLib/issues). You can also take a look at the [contributing guide](https://github.com/bobrossrtx/CardGameLib/blob/master/CONTRIBUTING.md).
 
 ## Show your support
 
