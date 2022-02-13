@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Company>$(Authors)</Company>
+    <Product>Card Game Library</Product>
+    <Authors>Owen Boreham</Authors>
+    <Version>0.0.2</Version>
+    <PackageId>CardGamesLib_Owen_Boreham</PackageId>
+    <Description>A Basic Card Game Engine Library for creating Card Games in the Browser, Terminal, and GUI</Description>
+    <Copyright>Apache 2.0</Copyright>
+    <RepositoryUrl>https://github.com/bobrossrtx/CardGameLib</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>Games;CardGames;Cards;VideoGames;Game;Library;GameEngine</PackageTags>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageIcon>content/Ace Of Spades.png</PackageIcon>
+    <SignAssembly>False</SignAssembly>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="content\Ace Of Spades.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

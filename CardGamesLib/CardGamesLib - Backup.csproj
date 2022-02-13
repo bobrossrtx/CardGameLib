@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Company>$(Authors)</Company>
+    <Product>Card Game Library</Product>
+    <Authors>Owen Boreham</Authors>
+    <Version>0.0.1</Version>
+  </PropertyGroup>
+
+</Project>

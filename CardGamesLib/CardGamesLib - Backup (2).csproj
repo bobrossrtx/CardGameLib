@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Company>$(Authors)</Company>
+    <Product>Card Game Library</Product>
+    <Authors>Owen Boreham</Authors>
+    <Version>0.0.1</Version>
+    <PackageId>CardGamesLib_Owen_Boreham</PackageId>
+    <Description>A Basic Card Game Engine Library for creating Card Games in the Browser, Terminal, and GUI</Description>
+    <Copyright>Apache 2.0</Copyright>
+    <RepositoryUrl>https://github.com/bobrossrtx/CardGameLib</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
